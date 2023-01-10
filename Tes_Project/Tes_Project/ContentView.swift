@@ -10,7 +10,7 @@ import FoodDataKit
 
 struct ContentView: View {
     var body: some View {
-        FoodListView(text: "")
+        FoodListView(text: "This is a list of available food recipe from API Database.")
     }
 }
 
